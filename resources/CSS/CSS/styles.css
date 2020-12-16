@@ -1,0 +1,44 @@
+* {
+    font-family: Helvetica;
+  }
+  
+  .title {
+    font-weight: 100px;
+    background-color: #bbbbbb;
+    color: white;
+    text-align: center;
+  }
+  
+  .specific{
+    color: blue;
+    font-style: italic;
+    text-transform: uppercase;
+  } 
+  
+  .firsttable{
+    background-color: green;
+    color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+  }
+  
+  .secondtable{
+    background-color: yellow;
+    color: darkseagreen;
+    border: 1px solid black;
+    border-radius: 10px;
+  }
+  
+  .firsttable table{
+    border: 1px, solid, black;
+  }
+  
+  .secondtable table{
+    border: 3px, dotted, darkblue;
+  }
+  
+  th {
+    font-family: Garamond;
+    color: cornsilk;
+  }
+  
